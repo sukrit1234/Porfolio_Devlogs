@@ -16,14 +16,14 @@ and these project is Sandbox openworld survivial game genre.
 Here is my research and implement on my framework based on Unreal Engine 4
 Crowd Agent enemy. We try to do mechanic good as good possible I can , asset production not good.
 Because of budget but mechanic , I can do just my coding skill
-https://www.youtube.com/watch?v=FRNQNpVnHhY&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3JVF&index=24&t=5s
+https://www.youtube.com/watch?v=FRNQNpVnHhY&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3JVF&index=24&
 
 ## Hope Land
 This project is paused on 2022 and will resumed in Q1 2024 , Because of budget problem.
 The project won EpicMegagran reciepiants. So very soon to continue and resume progress with Epic again in 2024
 
 Devlog one - summary many of system in single video.
-https://www.youtube.com/watch?v=YosD-lbrc9g&list=PLgeLE5TV_JERIfypcBgizdIws7Z7OGLs5&index=1&t=337s
+https://www.youtube.com/watch?v=YosD-lbrc9g&list=PLgeLE5TV_JERIfypcBgizdIws7Z7OGLs5&index=1
 
 Close Combat System - demonstrate some of melee weapon and combat with many enemy.
 https://www.youtube.com/watch?v=ftDKgPGitIk&list=PLgeLE5TV_JERIfypcBgizdIws7Z7OGLs5&index=2
