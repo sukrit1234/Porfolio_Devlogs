@@ -15,7 +15,7 @@ and these project is Sandbox openworld survivial game genre.
 ## Recently Research
 Here is my research and implement on my framework based on Unreal Engine 4
 Crowd Agent enemy. We try to do mechanic good as good possible I can , asset production not good.
-Because of budget but mechanic , I can do just my coding skill
+Because of my budget. But try to present the mechanics with my programing skill.
 https://www.youtube.com/watch?v=FRNQNpVnHhY&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3JVF&index=24&
 
 ## Hope Land
