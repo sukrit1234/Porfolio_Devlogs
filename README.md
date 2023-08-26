@@ -16,7 +16,7 @@ and these project is Sandbox openworld survivial game genre.
 Here is my research and implement on my framework based on Unreal Engine 4
 Crowd Agent enemy. We try to do mechanic good as good possible I can , asset production not good.
 Because of my budget. But try to present the mechanics with my programing skill.
-https://www.youtube.com/watch?v=FRNQNpVnHhY&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3JVF&index=24&
+https://www.youtube.com/watch?v=Orlj6P_sE0w&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3JVF&index=25
 
 ## Hope Land
 This project is paused on 2022 and will resumed in Q1 2024 , Because of budget problem.
