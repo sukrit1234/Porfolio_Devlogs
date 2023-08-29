@@ -1,5 +1,6 @@
 # My Skill in Recents 5 Years.
 Summary all of Devlogs and Portfolio in one page
+(I use words "We" for me and my team that work together in each project.)
 
 ## My game that already shipping to store.
 The game named "ScrewUp", That in Season 1 phase and will go to season 2 soon.
