@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=Orlj6P_sE0w&list=PLgeLE5TV_JEQEnSU26yIAwCkzfJ-K3
 
 ## Hope Land
 This project is paused on 2022 and will resumed in Q1 2024 , Because of budget problem.
-The project won EpicMegagran reciepiants. So very soon to continue and resume progress with Epic again in 2024
+The project won Epic Megagrant recipients. So very soon to continue and resume progress with Epic again in 2024
 
 Devlog one - summary many of system in single video.
 https://www.youtube.com/watch?v=YosD-lbrc9g&list=PLgeLE5TV_JERIfypcBgizdIws7Z7OGLs5&index=1
